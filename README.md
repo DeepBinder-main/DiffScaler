@@ -1,7 +1,17 @@
 # novel-video-synthesis
 [Base mode](https://github.com/DeepBinder-main/hotshot-xl)
 
+Open Source Video Generation Models to Checkout 
+-  https://github.com/lichao-sun/Mora
+-  https://github.com/G-U-N/AnimateLCM
+-  https://github.com/ali-vilab/VGen
+-  https://github.com/TIGER-AI-Lab/ConsistI2V
+-  https://github.com/showlab/MotionDirector
+-  https://github.com/pixeli99/SVD_Xtend
+-  https://github.com/Picsart-AI-Research/StreamingT2V
 
+Miscellaneous Video Generation Models 
+- https://github.com/mbzuai-oryx/Video-LLaVA
 
 ## References & citations
 
@@ -33,6 +43,8 @@ Unet
 
 https://github.com/Vchitect/Latte
 
+VAE
+- Consistency Distilled Diff VAE : https://github.com/openai/consistencydecoder
 
 ![image](https://github.com/DeepBinder-main/DiffScaler/assets/97831658/7ae2b077-b09b-4be4-b39b-8616f9328a61)
 
@@ -40,3 +52,5 @@ AnimateDiff + freeinit
 - https://github.com/guoyww/animatediff/
 - https://dagshub.com/ByteDance/AnimateDiff-Lightning
 - https://github.com/TianxingWu/FreeInit
+
+
