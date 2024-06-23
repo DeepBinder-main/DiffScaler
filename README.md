@@ -1,7 +1,7 @@
 # novel-video-synthesis
 [Base mode](https://github.com/DeepBinder-main/hotshot-xl)
 
-Open Source Video Generation Models to Checkout 
+### Open Source Video Generation Models to Checkout 
 -  https://github.com/lichao-sun/Mora
 -  https://github.com/G-U-N/AnimateLCM
 -  https://github.com/ali-vilab/VGen
