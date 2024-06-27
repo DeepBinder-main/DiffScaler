@@ -9,6 +9,7 @@
 -  https://github.com/showlab/MotionDirector
 -  https://github.com/pixeli99/SVD_Xtend
 -  https://github.com/Picsart-AI-Research/StreamingT2V
+-  https://ecnu-cilab.github.io/ExVideoProjectPage/ (ExVideo is a post-tuning technique aimed at enhancing the capability of video generation models. We have extended Stable Video Diffusion to achieve the generation of long videos up to 128 frames. The)
 
 Miscellaneous Video Generation Models 
 - https://github.com/mbzuai-oryx/Video-LLaVA
